@@ -1,0 +1,11 @@
+{
+  "name": "Sample Nft",
+  "description": "This is sample NFT",
+  "image": "https://bafybeifjnpk33zrfwg2v6tmpmleahknzzxkmnhidszwa75xl3nutgpz7am.ipfs.nftstorage.link/sample-nft.png",
+  "attributes": [
+    {
+     "trait_type": "Rarity",
+     "value": "Common"
+    }
+  ]
+}
